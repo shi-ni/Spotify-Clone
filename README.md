@@ -2,7 +2,7 @@
 
 A lightweight music player with basic Spotify-like controls.
 
-[Live Demo](https://your-site-name.netlify.app) • [Report Bug](https://github.com/yourusername/Spotify-Clone/issues)
+[Live Demo]([https://your-site-name.netlify.app](https://candid-brioche-049edc.netlify.app/)) 
 
 ![Spotify Clone Screenshot](screenshot.jpg)
 
