@@ -8,7 +8,6 @@ A lightweight music player with basic Spotify-like controls.
 ## 🎧 Features
 - ▶️ Play/pause songs
 - ↪️ Switch between tracks
-- 🔊 Volume control
 - 📱 Mobile-friendly design
 
 ## 🚀 How to Use
