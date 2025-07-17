@@ -30,4 +30,3 @@ Just visit: [Live Demo](https://candid-brioche-049edc.netlify.app/)
 - Progress bar for songs
 
 
-![Screenshot](screenshot2.jpg) 
