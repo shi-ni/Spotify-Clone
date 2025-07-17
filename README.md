@@ -1,32 +1,33 @@
 # 🎵 Simple Spotify Clone
 
-A lightweight music player with basic Spotify-like controls.
+A lightweight music player with basic Spotify-like controls.  
+[Live Demo](https://candid-brioche-049edc.netlify.app/) 
 
-[Live Demo]([https://your-site-name.netlify.app](https://candid-brioche-049edc.netlify.app/)) 
+![Player Interface](screenshot2.jpg)
 
-![Spotify Clone Screenshot](screenshot.jpg)
+## 🎧 Features
+- ▶️ Play/pause songs
+- ↪️ Switch between tracks
+- 🔊 Volume control
+- 📱 Mobile-friendly design
 
-## Features
-- Play/pause songs
-- Switch between tracks
-- Clean, responsive design
-- Volume control
+## 🚀 How to Use
+### Online:
+Just visit: [Live Demo](https://candid-brioche-049edc.netlify.app/)
 
-## How to Use
-1. **Online**: Visit the [Live Demo](https://your-site-name.netlify.app)
-2. **Locally**:
-   - Download the files
-   - Open `index.html` in your browser
+### Run Locally:
+1. Download the project files
+2. Open `index.html` in any web browser
 
-## Built With
-- HTML
-- CSS (with Bootstrap)
+## 💻 Built With
+- HTML5
+- CSS3 (Bootstrap)
 - JavaScript
 
-## Future Plans
-- Add more songs
-- Improve player controls
-- Add playlist feature
+## 🔜 Coming Soon
+- More songs added
+- Playlist functionality
+- Progress bar for songs
 
 
 ![Screenshot](screenshot2.jpg) 
