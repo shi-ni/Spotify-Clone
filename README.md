@@ -12,4 +12,4 @@ A music player with playback controls, built with HTML, CSS, and JavaScript.
 1. Download the files  
 2. Open `index.html` in a browser  
 
-![Screenshot](screenshot.png) *(Upload a screenshot!)*  
+![Screenshot](screenshot2.jpg) 
