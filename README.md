@@ -1,15 +1,32 @@
-# 🎵 Spotify Clone  
-A music player with playback controls, built with HTML, CSS, and JavaScript.  
+# 🎵 Simple Spotify Clone
 
-▶️ **Live Demo:** [Netlify/Vercel Link Here]  
+A lightweight music player with basic Spotify-like controls.
 
-## Features  
-- Play/pause functionality  
-- Song switching  
-- [Add more...]  
+[Live Demo](https://your-site-name.netlify.app) • [Report Bug](https://github.com/yourusername/Spotify-Clone/issues)
 
-## How to Run  
-1. Download the files  
-2. Open `index.html` in a browser  
+![Spotify Clone Screenshot](screenshot.jpg)
+
+## Features
+- Play/pause songs
+- Switch between tracks
+- Clean, responsive design
+- Volume control
+
+## How to Use
+1. **Online**: Visit the [Live Demo](https://your-site-name.netlify.app)
+2. **Locally**:
+   - Download the files
+   - Open `index.html` in your browser
+
+## Built With
+- HTML
+- CSS (with Bootstrap)
+- JavaScript
+
+## Future Plans
+- Add more songs
+- Improve player controls
+- Add playlist feature
+
 
 ![Screenshot](screenshot2.jpg) 
